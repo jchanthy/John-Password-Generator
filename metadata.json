@@ -1,0 +1,5 @@
+{
+  "name": "JPasswordGenerator",
+  "description": "A high-security, cryptographically sound password generator featuring glassmorphism UI, real-time entropy analysis, and automatic clipboard clearing.",
+  "requestFramePermissions": []
+}
